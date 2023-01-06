@@ -14,7 +14,7 @@ _(yes, it is all Minecraft mods)_
 
 # About us
 
-This project was launched by [Nerjal Nosk](https://github.com/NerjalNosk) at the end of 2022, and aims to bring a bunch of Minecraft mods to [Forge](https://fabricmc.net) from other modloaders, or just update them from old Minecraft versions.
+This project was launched by [Nerjal Nosk](https://github.com/NerjalNosk) at the end of 2022, and aims to bring a bunch of Minecraft mods to [Forge](https://files.minecraftforge.net) from other modloaders, or just update them from old Minecraft versions.
 
 ## Our members
 
@@ -24,7 +24,7 @@ As for the community itself, we approximate it to a total of <n>0</n> members. _
 
 ## Our activities
 
-We here do mod ports to the Minecraft [Fabric](https://fabricmc.net) modloader, but we also do ports to other modloaders: 
+We here do mod ports to the Minecraft [Forge](https://files.minecraftforge.net/) modloader, but we also do ports to other modloaders: 
 * [Back to the Fabric](https://github.com/orgs/Back-to-the-Fabric)
 * [1.21 Quiltawatts](https://github.com/orgs/1-21-Quiltawatts)
 
